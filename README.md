@@ -18,10 +18,6 @@
 <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=syain650&label=PROFILE%20VISITORS&color=2563EB&style=flat-square"/>
-
 </div>
 
 ---
@@ -123,27 +119,6 @@ Video Editing
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
 <img src="https://img.shields.io/badge/Photography-111827?style=for-the-badge&logo=camera&logoColor=white"/>
-
-</div>
-
----
-
-## 🤖 My AI-Assisted Workflow
-
-<div align="center">
-
-### `IDEA` → `PROMPT` → `DESIGN` → `BUILD` → `REFINE` → `SHIP`
-
-<br>
-
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<br><br>
-
-<code>AI is my assistant. Creativity, decisions, and learning are mine.</code>
 
 </div>
 
